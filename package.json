@@ -1,0 +1,23 @@
+{
+  "name": "demobakend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thummarong085/demobakend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thummarong085/demobakend/issues"
+  },
+  "homepage": "https://github.com/thummarong085/demobakend#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
